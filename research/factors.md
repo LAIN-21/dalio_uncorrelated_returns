@@ -1,7 +1,3 @@
-Great question — this is a **core concept**, so let’s lock it in cleanly.
-
----
-
 ## What **“by factor”** means (plain English)
 
 **“Equities (by factor)”** means grouping stocks **not by geography or sector**, but by the **systematic characteristics that explain how they behave**.

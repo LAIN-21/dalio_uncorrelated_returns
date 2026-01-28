@@ -21,71 +21,62 @@ Description: Equities "by factor" means grouping stocks not by geography or sect
 
 For more detail into what factors are, go to factors.md in this same folder.
 
-1. Value: 
-2. Momentum:
-3. Quality: 
-4. Low Volatility:
-5. Size: 
+1. Value: VTV, Vanguard
+2. Momentum: IWMO.L, Blackrock
+3. Quality: IWQU.L, Blackrock
+4. Low Volatility: ACWV, Blackrock
+5. Size: IUSN.DE, Blackrock
 
 **Fixed income (by maturity & credit)**
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+
+Description: Fixed income by maturity & credit means separating bonds into independent exposures to interest-rate sensitivity (duration) and default risk (credit spreads), because they behave very differently across economic regimes
+
+For more detail into what factors are, go to fixed_income.md in this same folder.
+
+Government Bonds
+1. Short-Term: BIL
+2. Mid-Term: IEF
+3. Long-Term: TLT
+
+Corporate Credit
+1. Investment-Grade: LQD
+2. High-Yield: HYG
+3. Emerging-Market Debt: EMB
+
 
 **Commodities (by type)**
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+
+Description: Here we focus in physical economic inputs, grouped by what part of the real economy they affect. We are focusing on Energy, Precious Metals, Industrial Metals, and Agriculture.
+
+1. Gold: GLD, Blackrock
+2. Silver: SLV, Blackrock
+3. Platinum: PPLT, Abrdn
+4. Palladium: PALL, Abrdn
+5. Energy: USO,
+6. Industrial Metals: DBB, Invesco
+7. Agriculture: DBA, Invesco
 
 **Real assets**
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+
+Description: Real assets are assets backed by physical things that generate cash flows or rents, tend to benefit from inflation, sit between equities and commodities, they are not raw commodities, and not pure financial claims like bonds
+
+1. Real State: VNQ, Vanguard
+2. Infrastructure: IGF, Blackrock
+3. Natural-resource real assets: Wood, Blackrock
+
 
 **Inflation hedges**
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+
+Description: Inflation hedges are assets that tend to hold value or benefit when inflation is higher than expected
+
+1. Inflation-linked government bonds: TIP, Blackrock
+2. Commodity inflation hedge: DBC, Invesco
 
 **Volatility**
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+
+Descriptioin: Volatility is not an asset in the normal sense. It is a state variable: Fear, Uncertainty, Stress. Volatility typically spikes when everything else falls
+
+1. VXX, Barclays Bank
 
 **Crypto**
 1. BTC
